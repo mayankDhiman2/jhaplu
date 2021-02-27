@@ -1,0 +1,17 @@
+1. Mr & Mrs Shopping: https://leetcode.com/discuss/interview-question/710709/de-Shaw-or-OA
+
+2. Lucky Horse, Chocolate Splitting (Alice Bob) & Encryption Enigma:
+https://leetcode.com/discuss/interview-question/710709/de-Shaw-or-OA
+
+3. Monkey Ninja: 
+https://leetcode.com/discuss/interview-question/804331/DE-Shaw-intern-question(2021).How-to-solve
+
+4. Tub & Tom: 
+https://leetcode.com/discuss/interview-question/809228/DE-Shaw-or-OA-(SDE-intern-2021)-or-Tubby-and-Tom
+
+5. Weird Range Question:
+https://leetcode.com/discuss/interview-question/809228/DE-Shaw-or-OA-(SDE-intern-2021)-or-Tubby-and-Tom
+
+6. Not Consecutive K Looses:
+https://leetcode.com/discuss/interview-question/825904/De-Shaw-oa-question
+ 
